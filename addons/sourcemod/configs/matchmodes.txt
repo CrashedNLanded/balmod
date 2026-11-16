@@ -1,0 +1,12 @@
+"MatchModes"
+{
+        "JokeMod Configs"
+	{
+		"JokeMod"
+		{
+			"name" "JokeMod Alpha 1.0"
+		}
+
+	}
+
+}
