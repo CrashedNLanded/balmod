@@ -1,5 +1,4 @@
-# Jokemod
-This is the worst l4d2 config ever.
-Most, if not all, of these changes are terrible. It's intended as a funny haha. Changes will come to make it "balanced" without breaking the initial concept of it. Good luck. You'll need it.
+# BalMod
+This is meant to be a more casual sided config. Tier 2's are included, but Medkits aren't included... as I see them as a "You done all that, but I hold M1 for 5 seconds and all that work is gone. haha, fuck you!"
 
 ...based off Flowmod by Crashlanded
