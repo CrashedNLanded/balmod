@@ -1,6 +1,6 @@
 "MatchModes"
 {
-        "JokeMod Configs"
+        "BalMod Configs"
 	{
 		"JokeMod"
 		{
