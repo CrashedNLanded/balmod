@@ -4,7 +4,7 @@
 	{
 		"JokeMod"
 		{
-			"name" "BalMod Alpha 2.0"
+			"name" "BalMod 1.0"
 		}
 
 	}
