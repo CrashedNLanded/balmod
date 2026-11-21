@@ -2,7 +2,7 @@
 {
         "BalMod Configs"
 	{
-		"JokeMod"
+		"balmod"
 		{
 			"name" "BalMod 1.0"
 		}
