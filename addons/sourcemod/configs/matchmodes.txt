@@ -4,7 +4,7 @@
 	{
 		"balmod"
 		{
-			"name" "BalMod 1.0"
+			"name" "Balmod 1.0"
 		}
 
 	}
